@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently codes in Pyton, R, and JavaScript<br>Looking to collab in AI driven projects<br>Love building projects in Python<br>I specialize in Data Anaysis
+Currently codes in Pyton, R, and JavaScript<br>Looking to collab in AI driven projects<br>Love building projects in Python<br>I specialize in Data Analysis 
 
 
 ## 🌐 Socials:
